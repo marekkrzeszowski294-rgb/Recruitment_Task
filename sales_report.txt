@@ -1,0 +1,25 @@
+RAPORT SPRZEDAŻY
+========================================
+Liczba poprawnych zamówień: 10
+Liczba odrzuconych wierszy: 0
+Łączna wartość sprzedaży: 20190.00 zł
+
+WARTOŚĆ ZAMÓWIEŃ
+----------------------------------------
+Zamówienie 1001 | Laptop | 2 szt. x 3500.00 zł = 7000.00 zł
+Zamówienie 1002 | Mouse | 5 szt. x 50.00 zł = 250.00 zł
+Zamówienie 1003 | Keyboard | 3 szt. x 120.00 zł = 360.00 zł
+Zamówienie 1004 | Monitor | 2 szt. x 900.00 zł = 1800.00 zł
+Zamówienie 1005 | Mouse | 10 szt. x 50.00 zł = 500.00 zł
+Zamówienie 1006 | Laptop | 1 szt. x 3500.00 zł = 3500.00 zł
+Zamówienie 1007 | Keyboard | 4 szt. x 120.00 zł = 480.00 zł
+Zamówienie 1008 | Monitor | 3 szt. x 900.00 zł = 2700.00 zł
+Zamówienie 1009 | Mouse | 2 szt. x 50.00 zł = 100.00 zł
+Zamówienie 1010 | Laptop | 1 szt. x 3500.00 zł = 3500.00 zł
+
+PODSUMOWANIE PRODUKTÓW
+----------------------------------------
+Keyboard: 7 szt. | 840.00 zł
+Laptop: 4 szt. | 14000.00 zł
+Monitor: 5 szt. | 4500.00 zł
+Mouse: 17 szt. | 850.00 zł
